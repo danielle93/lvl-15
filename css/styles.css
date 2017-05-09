@@ -34189,4 +34189,17 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1); }
 
+/* line 83, /Users/Danielle/lvl-15/css/styles.scss */
+input.clearAll {
+  color: #f4f4f4;
+  font-size: .75em;
+  background: #c9c9c9;
+  padding: 5px;
+  outline: 0;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin-top: 5%;
+  margin-right: 2.5%;
+  margin-LEFT: 2.5%;
+  justify-content: space-between; }
+
 /*# sourceMappingURL=styles.css.map */
